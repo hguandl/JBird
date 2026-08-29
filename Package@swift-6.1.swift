@@ -85,8 +85,7 @@ let package = Package(
                 .process("PrivacyInfo.xcprivacy")
             ],
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -95,8 +94,7 @@ let package = Package(
                 "JBird"
             ],
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .target(
@@ -108,8 +106,7 @@ let package = Package(
                 .process("PrivacyInfo.xcprivacy")
             ],
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -119,16 +116,14 @@ let package = Package(
                 "JBirdParser"
             ],
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .target(
             name: "JBirdParser",
             publicHeadersPath: "include",
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -137,8 +132,7 @@ let package = Package(
                 "JBirdParser"
             ],
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .target(
@@ -150,8 +144,7 @@ let package = Package(
                 .process("PrivacyInfo.xcprivacy")
             ],
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -161,8 +154,7 @@ let package = Package(
                 "JBirdCore"
             ],
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .target(
@@ -176,8 +168,7 @@ let package = Package(
                 .process("PrivacyInfo.xcprivacy")
             ],
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -188,8 +179,7 @@ let package = Package(
                 "JBirdBuilders"
             ],
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .macro(
@@ -213,8 +203,7 @@ let package = Package(
                 )
             ],
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .target(
@@ -226,8 +215,7 @@ let package = Package(
                 .process("PrivacyInfo.xcprivacy")
             ],
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -237,8 +225,7 @@ let package = Package(
                 "JBirdCore"
             ],
             swiftSettings: [
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         )
     ],

@@ -86,8 +86,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -97,8 +96,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .target(
@@ -111,8 +109,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -123,8 +120,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .target(
@@ -132,8 +128,7 @@ let package = Package(
             publicHeadersPath: "include",
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -143,8 +138,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .target(
@@ -157,8 +151,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -169,8 +162,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .target(
@@ -185,8 +177,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -198,8 +189,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .macro(
@@ -224,8 +214,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -239,8 +228,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .target(
@@ -253,8 +241,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         ),
         .testTarget(
@@ -265,8 +252,7 @@ let package = Package(
             ],
             swiftSettings: [
                 .enableUpcomingFeature("NonisolatedNonsendingByDefault"),
-                .enableUpcomingFeature("ExistentialAny"),
-                .enableUpcomingFeature("MemberImportVisibility")
+                .enableUpcomingFeature("ExistentialAny")
             ]
         )
     ],
